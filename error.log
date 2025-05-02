@@ -1,0 +1,1 @@
+2025-05-02T03:05:14.830Z error: Error processing media: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent: [404 Not Found] Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash.

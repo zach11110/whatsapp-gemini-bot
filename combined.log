@@ -1,0 +1,92 @@
+2025-05-02T02:59:56.845Z info: Gemini AI initialized successfully
+2025-05-02T02:59:56.849Z info: WhatsApp client initialization started
+2025-05-02T02:59:56.850Z info: Server is running on port 3000
+2025-05-02T03:00:03.690Z info: WhatsApp client authenticated and ready
+2025-05-02T03:00:16.359Z info: [2025-05-02T03:00:16.359Z] Message from 963967672337: مرحبا
+2025-05-02T03:00:18.151Z info: Response sent successfully to 963967672337
+2025-05-02T03:00:33.623Z info: [2025-05-02T03:00:33.623Z] Message from 963967672337: عراسي فيني اسالك عن شوية امراض عن السرطان مثلا؟
+2025-05-02T03:00:37.622Z info: Response sent successfully to 963967672337
+2025-05-02T03:01:05.347Z info: [2025-05-02T03:01:05.347Z] Message from 963967672337: 
+2025-05-02T03:01:08.069Z info: Response sent successfully to 963967672337
+2025-05-02T03:01:25.810Z info: [2025-05-02T03:01:25.810Z] Message from 963967672337: ترسلتك صورة شفتها؟
+2025-05-02T03:01:28.084Z info: Response sent successfully to 963967672337
+2025-05-02T03:04:30.034Z info: Received shutdown signal, closing connections...
+2025-05-02T03:04:32.507Z info: Gemini AI models initialized successfully
+2025-05-02T03:04:32.513Z info: WhatsApp client initialization started
+2025-05-02T03:04:32.514Z info: Server is running on port 3000
+2025-05-02T03:04:39.463Z info: WhatsApp client authenticated and ready
+2025-05-02T03:04:42.008Z info: [2025-05-02T03:04:42.007Z] Message from 963967672337: مرحبا
+2025-05-02T03:04:43.850Z info: Response sent successfully to 963967672337
+2025-05-02T03:05:12.053Z info: [2025-05-02T03:05:12.052Z] Media message received from 963967672337
+2025-05-02T03:05:12.054Z info: Processing message with media from 963967672337
+2025-05-02T03:05:13.374Z info: Image saved to D:\My work\AI_BOT\media\1746155113372-3120.jpg, size: 68229 bytes
+2025-05-02T03:05:14.830Z error: Error processing media: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent: [404 Not Found] Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash.
+2025-05-02T03:05:15.242Z info: Response sent successfully to 963967672337
+2025-05-02T03:06:36.403Z info: Received shutdown signal, closing connections...
+2025-05-02T03:06:38.780Z info: Gemini AI models initialized successfully
+2025-05-02T03:06:38.785Z info: WhatsApp client initialization started
+2025-05-02T03:06:38.786Z info: Server is running on port 3000
+2025-05-02T03:06:46.113Z info: WhatsApp client authenticated and ready
+2025-05-02T03:07:01.922Z info: [2025-05-02T03:07:01.922Z] Message from 963967672337: هلا
+2025-05-02T03:07:04.192Z info: Response sent successfully to 963967672337
+2025-05-02T03:07:16.187Z info: [2025-05-02T03:07:16.186Z] Media message received from 963967672337
+2025-05-02T03:07:16.187Z info: Processing message with media from 963967672337
+2025-05-02T03:07:16.289Z info: Image saved to D:\My work\AI_BOT\media\1746155236287-1870.jpg, size: 68229 bytes
+2025-05-02T03:07:19.913Z info: Temporary image deleted: D:\My work\AI_BOT\media\1746155236287-1870.jpg
+2025-05-02T03:07:20.327Z info: Response sent successfully to 963967672337
+2025-05-02T03:07:33.472Z info: [2025-05-02T03:07:33.471Z] Message from 963967672337: اشرحلي بالعربي
+2025-05-02T03:07:36.619Z info: Response sent successfully to 963967672337
+2025-05-02T03:11:40.489Z info: Received shutdown signal, closing connections...
+2025-05-02T03:11:43.258Z info: Gemini AI models initialized successfully
+2025-05-02T03:11:43.265Z info: WhatsApp client initialization started
+2025-05-02T03:11:43.267Z info: Server is running on port 3000
+2025-05-02T03:11:50.620Z info: WhatsApp client authenticated and ready
+2025-05-02T03:12:02.667Z info: [2025-05-02T03:12:02.667Z] Media message received from 963967672337
+2025-05-02T03:12:02.669Z info: Processing message with media from 963967672337
+2025-05-02T03:12:02.751Z info: Image saved to D:\My work\AI_BOT\media\1746155522750-9486.jpg, size: 68229 bytes
+2025-05-02T03:12:13.269Z info: Temporary image deleted: D:\My work\AI_BOT\media\1746155522750-9486.jpg
+2025-05-02T03:12:13.715Z info: Response sent successfully to 963967672337
+2025-05-02T03:12:37.850Z info: [2025-05-02T03:12:37.850Z] Message from 963967672337: شو لازم اعمل؟
+2025-05-02T03:12:43.214Z info: Response sent successfully to 963967672337
+2025-05-02T03:13:14.443Z info: [2025-05-02T03:13:14.443Z] Media message received from 963967672337
+2025-05-02T03:13:14.444Z info: Processing message with media from 963967672337
+2025-05-02T03:13:16.542Z info: Image saved to D:\My work\AI_BOT\media\1746155596541-2226.jpg, size: 144036 bytes
+2025-05-02T03:13:21.086Z info: Temporary image deleted: D:\My work\AI_BOT\media\1746155596541-2226.jpg
+2025-05-02T03:13:21.496Z info: Response sent successfully to 963967672337
+2025-05-02T03:13:40.495Z info: [2025-05-02T03:13:40.495Z] Message from 963967672337: مين انت؟
+2025-05-02T03:13:43.035Z info: Response sent successfully to 963967672337
+2025-05-02T03:20:52.152Z info: Received shutdown signal, closing connections...
+2025-05-02T03:20:55.362Z info: Gemini AI models initialized successfully
+2025-05-02T03:20:55.369Z info: WhatsApp client initialization started
+2025-05-02T03:20:55.370Z info: Server is running on port 3000
+2025-05-02T03:21:02.522Z info: WhatsApp client authenticated and ready
+2025-05-02T03:21:06.598Z info: [2025-05-02T03:21:06.598Z] Message from 963967672337: مرحبا
+2025-05-02T03:21:08.512Z info: Response sent successfully to 963967672337
+2025-05-02T03:21:16.717Z info: [2025-05-02T03:21:16.716Z] Message from 963967672337: كل عام وانت بخير
+2025-05-02T03:21:18.763Z info: Response sent successfully to 963967672337
+2025-05-02T03:21:53.082Z info: [2025-05-02T03:21:53.082Z] Media message received from 963967672337
+2025-05-02T03:21:53.082Z info: Processing message with media from 963967672337
+2025-05-02T03:21:54.618Z info: Image saved to D:\My work\AI_BOT\media\1746156114616-155.jpg, size: 134894 bytes
+2025-05-02T03:21:59.398Z info: Temporary image deleted: D:\My work\AI_BOT\media\1746156114616-155.jpg
+2025-05-02T03:21:59.838Z info: Response sent successfully to 963967672337
+2025-05-02T03:22:27.267Z info: [2025-05-02T03:22:27.267Z] Message from 963967672337: فيك ترسم صورة؟
+2025-05-02T03:22:30.136Z info: Response sent successfully to 963967672337
+2025-05-02T03:22:51.681Z info: [2025-05-02T03:22:51.680Z] Media message received from 963967672337
+2025-05-02T03:22:51.681Z info: Processing message with media from 963967672337
+2025-05-02T03:22:51.732Z info: Image saved to D:\My work\AI_BOT\media\1746156171730-7195.jpg, size: 134894 bytes
+2025-05-02T03:22:55.421Z info: Temporary image deleted: D:\My work\AI_BOT\media\1746156171730-7195.jpg
+2025-05-02T03:22:55.842Z info: Response sent successfully to 963967672337
+2025-05-02T03:30:55.375Z info: API Usage Stats - Minute: 2/15 (13.3%), Day: 5/1500 (0.3%)
+2025-05-02T03:30:55.376Z info: Rate limits reset in: -7.5 minutes (minute limit), 17.5 hours (daily limit)
+2025-05-02T03:38:04.717Z info: [2025-05-02T03:38:04.717Z] Message from 963967672337: عراسي
+2025-05-02T03:38:07.231Z info: Response sent successfully to 963967672337
+2025-05-02T03:39:09.494Z info: [2025-05-02T03:39:09.494Z] Message from 963967672337: فيك تدورلي على النت وين ممكن ارفع ابلكيشن كتير صغير Nodejs 
+بس ببلاش بدون ما ادفع شي؟ غير اوراكله ؟
+2025-05-02T03:39:15.617Z info: Response sent successfully to 963967672337
+2025-05-02T03:40:08.514Z info: [2025-05-02T03:40:08.514Z] Message from 963967672337: تمام
+2025-05-02T03:40:11.467Z info: Response sent successfully to 963967672337
+2025-05-02T03:40:55.378Z info: API Usage Stats - Minute: 2/15 (13.3%), Day: 8/1500 (0.5%)
+2025-05-02T03:40:55.379Z info: Rate limits reset in: -0.8 minutes (minute limit), 17.3 hours (daily limit)
+2025-05-02T03:50:55.378Z info: API Usage Stats - Minute: 2/15 (13.3%), Day: 8/1500 (0.5%)
+2025-05-02T03:50:55.379Z info: Rate limits reset in: -10.8 minutes (minute limit), 17.2 hours (daily limit)
+2025-05-02T03:58:57.028Z info: Received shutdown signal, closing connections...
